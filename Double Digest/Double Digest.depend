@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1564235808 source:d:\documents\subjects\summer 2019\bioinformatics\double digest\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"OwnTree.h"
+	"OwnStack.h"
+
+1564172559 d:\documents\subjects\summer 2019\bioinformatics\double digest\owntree.h
+	<iostream>
+	<stdlib.h>
+
+1565161344 d:\documents\subjects\summer 2019\bioinformatics\double digest\ownstack.h
+	<iostream>
+	<stdlib.h>
+
+1565161420 source:d:\documents\subjects\summer 2019\bioinformatics\projects\double digest\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"OwnTree.h"
+	"OwnStack.h"
+
+1564172559 d:\documents\subjects\summer 2019\bioinformatics\projects\double digest\owntree.h
+	<iostream>
+	<stdlib.h>
+
+1565161344 d:\documents\subjects\summer 2019\bioinformatics\projects\double digest\ownstack.h
+	<iostream>
+	<stdlib.h>
+
